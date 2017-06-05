@@ -9,6 +9,7 @@ You can use this page to showcase your work, portfolio/project, your Latest post
 
 ---
 
-## 🅿️ Edit This Page
-### 待完善.
-You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 🅿️ Posts
+### 待完善.  
+
+
