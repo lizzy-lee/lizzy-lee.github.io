@@ -10,6 +10,8 @@ You can use this page to showcase your work, portfolio/project, your Latest post
 ---
 
 ## 🅿️ Posts
-### 待完善.  
 
+{% for post in site.posts limit: 20 %}
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endfor %} 
 

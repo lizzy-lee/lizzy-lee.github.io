@@ -1,4 +1,4 @@
-var CACHE_NAME = '20170517212028';
+var CACHE_NAME = '20170803185632';
 
 self.addEventListener('install',event => {
   event.waitUntil(caches.open(CACHE_NAME)
@@ -14,7 +14,7 @@ self.addEventListener('install',event => {
     
     
     
-    '/blog/my-first-page','/blog/welcome-to-jekyll',
+    '/blog/%E9%9A%8F%E4%BE%BF%E8%AF%B4%E5%87%A0%E5%8F%A5%E8%BF%91%E5%86%B5','/blog/%E8%A3%85Ubuntu%E5%90%8E%E7%94%B5%E8%84%91%E4%B8%80%E7%9B%B4%E5%8D%A1%E9%A1%BF%E7%9A%84%E5%8F%AF%E8%83%BD%E5%8E%9F%E5%9B%A0','/blog/my-first-page',
   ]))
 );
 });
